@@ -1,2 +1,2 @@
 # c-
-本人用c++做的一些小游戏，注意，我是c++新手，目前正在做的游戏：tlry（2D生存游戏）
+I do some small games with c++, note that I am a new player in c++ and I am currently doing the game: tlry (2D survival game)
